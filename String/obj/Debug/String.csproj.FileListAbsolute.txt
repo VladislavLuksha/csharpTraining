@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\с#\String\bin\Debug\String.exe.config
+C:\Users\Administrator\source\с#\String\bin\Debug\String.exe
+C:\Users\Administrator\source\с#\String\bin\Debug\String.pdb
+C:\Users\Administrator\source\с#\String\obj\Debug\String.csprojAssemblyReference.cache
+C:\Users\Administrator\source\с#\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\с#\String\obj\Debug\String.exe
+C:\Users\Administrator\source\с#\String\obj\Debug\String.pdb
+D:\source\с#\String\bin\Debug\String.exe.config
+D:\source\с#\String\bin\Debug\String.exe
+D:\source\с#\String\bin\Debug\String.pdb
+D:\source\с#\String\obj\Debug\String.csprojAssemblyReference.cache
+D:\source\с#\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+D:\source\с#\String\obj\Debug\String.exe
+D:\source\с#\String\obj\Debug\String.pdb
